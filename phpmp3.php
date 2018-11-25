@@ -1,7 +1,7 @@
 <?php
 /**
  * Class PHPMP3
- *
+ * Mohammad Zarchi
  * @license LGPL
  */
 class PHPMP3
